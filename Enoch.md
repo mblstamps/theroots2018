@@ -1,5 +1,5 @@
 ## The root data is ready for processing
 
-But we can't install dada2.
+but we can't install dada2.
 
-¯\_(ツ)_/¯
+we need help else we'll all go get drunk
